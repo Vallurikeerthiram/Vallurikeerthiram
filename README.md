@@ -1,67 +1,86 @@
-# Valluri Keerthi Ram
+# 🗂️ [VALLURI KEERTHI RAM] // ARCHITECTING_INTELLIGENT_SYSTEMS
 
-**Computer Science Student @ Amrita Vishwa Vidyapeetham (2023–2027)**  
-*AI Researcher | Computational Linguist | Predictive Modeler*
+> **"Computational Precision meets Linguistic Nuance."**
 
-I specialize in **Natural Language Processing (NLP)**, **Machine Learning**, and **Predictive Modeling**, with a focus on building high-precision systems for linguistic analysis and data forecasting. My work bridges the gap between theoretical mathematical models and scalable software solutions.
-
----
-
-### 🛡️ Technical Arsenal
-
-- **AI & Machine Learning**: PyTorch, TensorFlow, Transformers (XLM-RoBERTa, DistilBERT, MuRIL), OpenCV, Scikit-learn.
-- **Natural Language Processing**: Sentiment Analysis, Morphological Transducers, Word Segmentation (Scriptio Continua), Multilingual NLP.
-- **Predictive Systems**: Bayesian Inference, Markov Chains, Statistical Modeling, Bayesian Optimization.
-- **Full-Stack & DevOps**: Python (FastAPI), JavaScript, HTML/CSS, Docker, AWS (Certified), GitHub Actions.
+I am an AI researcher and developer at **Amrita Vishwa Vidyapeetham (2023–2027)**, specializing in the synthesis of **Deep Learning**, **Mathematical Statistics**, and **Linguistic Theory**. My objective is to push the boundaries of what is possible in predictive modeling and natural language understanding.
 
 ---
 
-### 📂 Featured GitHub Repositories
+### 🧩 THE_COMPUTATIONAL_ENGINE
 
-#### 🔠 [English Morphological Transducer](https://github.com/Vallurikeerthiram/english-morphological-transducer)
-Advanced morphological analysis system for English using Finite State Transducers (FST) and Trie validation. It extracts base lemmas from complex derived forms and provides precise grammatical mapping.
-
-#### 📈 [Probability-Based Crypto Tool](https://github.com/Vallurikeerthiram/Probability-Based-Crypto-For-Scalping-and-Compounding)
-An algorithmic trading engine leveraging probability-based rating and Markov Chains for high-frequency crypto scalping and compounding.
-
-#### 🖥️ [VKR-Desk-Assistant](https://github.com/Vallurikeerthiram/VKR-Desk-Assistant)
-A cross-platform intelligent desk assistant integrating system-level automation, web interfaces, and Python-based control logic.
-
----
-
-### 🧪 Core Research & Research Projects (External/Private)
-
-*Validated via LinkedIn & Professional Portfolio*
-
-- **Scriptio Continua Framework**: A unified deep learning framework for automated word boundary detection in continuous text strings, utilizing BiLSTM, CNN, and CRF architectures.
-- **Groundwater Prediction System**: High-fidelity forecasting model for semi-arid regions, utilizing specialized ML techniques to achieve high accuracy (**R² > 0.975**).
-- **Adaptive Hydration Prediction**: A physics-integrated GRU system that uses smartwatch data to predict hydration levels dynamically.
-- **Emotion Sentiment Detection**: Fine-tuned multilingual transformers specifically optimized for low-resource Telugu text analysis.
+```python
+class ValluriKeerthiRam:
+    def __init__(self):
+        self.core_stack = ["PyTorch", "TensorFlow", "Transformers", "OpenCV"]
+        self.research_focus = ["Scriptio_Continua", "Morphological_FST", "Bayesian_Forecasting"]
+        self.capabilities = {
+            "NLP": ["XLM-RoBERTa", "MuRIL", "Sentiment_Analysis", "BIES_Tagging"],
+            "Math": ["Bayesian_Inference", "Markov_Chains", "Statistical_Modeling"],
+            "Cloud": ["AWS_Certified", "FastAPI", "Docker", "GitHub_Actions"]
+        }
+```
 
 ---
 
-### 📜 Professional Credits & Certifications
+### 🧪 RESEARCH_FRONTIERS (PRIVATE_SECTOR)
 
-- **AWS Academy Graduate**: Cloud Foundations (Feb 2026)
-- **AWS Cloud Technical Essentials**: (Jan 2025)
-- **Google Cloud**: Introduction to Generative AI (Oct 2024)
-- **Project Management Institute**: Project Management Foundations (Oct 2024)
-- **HackerRank**: Problem Solving (Advanced) & Python (Nov 2023)
+These projects represent high-fidelity research and are validated via **LinkedIn** and **Professional Portfolio**. They focus on solving complex, real-world problems through innovative mathematical applications.
+
+<details>
+<summary><b>🛰️ Predictive Hydroinformatics: Groundwater Forecasting</b></summary>
+<blockquote>
+Implemented a high-fidelity groundwater prediction system for semi-arid regions. Leveraging specialized ML ensembles, the system achieved a validated <b>R² > 0.975</b>, providing critical insights for regional water management.
+</blockquote>
+</details>
+
+<details>
+<summary><b>🧬 Linguistic Informatics: Scriptio Continua Framework</b></summary>
+<blockquote>
+Developed a unified deep learning framework for automated word segmentation in continuous text strings. Utilizes a hybrid <b>BiLSTM-CRF</b> and <b>CNN</b> architecture to reconstruct boundaries in Scriptio Continua languages with state-of-the-art precision.
+</blockquote>
+</details>
+
+<details>
+<summary><b>⌚ Adaptive Hydration: Smartwatch-Integrated GRU</b></summary>
+<blockquote>
+A physics-integrated Gated Recurrent Unit (GRU) system designed for real-time hydration prediction. It synchronizes smartwatch biometric data with physiological models to provide dynamic health monitoring.
+</blockquote>
+</details>
+
+<details>
+<summary><b>🎭 Emotion Sentiment: Low-Resource Telugu Transformers</b></summary>
+<blockquote>
+Fine-tuned multilingual transformer models (MuRIL/RoBERTa) specifically optimized for the nuances of the Telugu language, bridging the gap in low-resource sentiment analysis.
+</blockquote>
+</details>
 
 ---
 
-### 📊 GitHub Stats
+### 📂 OPEN_SOURCE_INTELLIGENCE (PUBLIC_ACCESS)
 
-![Keerthi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vallurikeerthiram&show_icons=true&theme=radical&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vallurikeerthiram&layout=compact&theme=radical&hide_progress=false)
+| Project | Domain | Core Tech |
+| :--- | :--- | :--- |
+| **[English Morphological Transducer](https://github.com/Vallurikeerthiram/english-morphological-transducer)** | Computational Linguistics | FST, Trie, Python |
+| **[Probability-Based Crypto Tool](https://github.com/Vallurikeerthiram/Probability-Based-Crypto-For-Scalping-and-Compounding)** | Algorithmic Trading | Bayesian Math, Markov Chains |
+| **[VKR-Desk-Assistant](https://github.com/Vallurikeerthiram/VKR-Desk-Assistant)** | Intelligent Automation | Python, WebUI, OS Integration |
+| **[Relative Rating System](https://github.com/Vallurikeerthiram/relative-rating-system)** | Statistical Modeling | Ranking Algorithms |
+
+---
+
+### 📜 VALIDATION_&_CREDENTIALS
+
+- **AWS GRADUATE**: Cloud Foundations & Technical Essentials (2025/2026)
+- **GOOGLE AI**: Introduction to Generative AI (2024)
+- **PMI**: Project Management Foundations (2024)
+- **HACKERRANK**: Problem Solving (Advanced) // Python Specialist (2023)
 
 ---
 
-### 📫 Connect with Me
+### 📡 COMMUNICATION_CHANNELS
 
-- **LinkedIn**: [in/valluri-keerthi-ram](https://www.linkedin.com/in/valluri-keerthi-ram-503576216)
-- **Portfolio**: [keerthiramvalluri.github.io](https://vallurikeerthiram.github.io/keerthiramvalluri.github.io/)
-- **Email**: [keerthiramvalluri@gmail.com](mailto:keerthiramvalluri@gmail.com)
+- **Professional Profile**: [LinkedIn](https://www.linkedin.com/in/valluri-keerthi-ram-503576216)
+- **Digital Portfolio**: [Official Site](https://vallurikeerthiram.github.io/keerthiramvalluri.github.io/)
+- **Direct Mail**: [keerthiramvalluri@gmail.com](mailto:keerthiramvalluri@gmail.com)
 
 ---
-*"Engineering the future through mathematical precision and scalable AI."*
+*"The code is only as powerful as the logic that precedes it."*
