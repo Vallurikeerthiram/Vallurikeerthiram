@@ -1,134 +1,84 @@
-<h1 align="center">🖥️ SYSTEM_CONTROL_CENTER // VALLURI_KEERTHI_RAM</h1>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/STATUS-SYSTEM_ONLINE-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LOCATION-AMRITA_VISHWA_VIDYAPEETHAM-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/ROLE-AI_RESEARCH_&_DEVELOPMENT-orange?style=for-the-badge" />
-</p>
-
-<br>
-
-<table align="center" width="100%">
-  <tr>
-    <td align="center" width="25%">
-      <a href="#linguistic-intelligence">
-        <img src="https://img.shields.io/badge/MODULE_01-LINGUISTICS-blue?style=for-the-badge&logo=probot" width="100%" />
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <a href="#predictive-engines">
-        <img src="https://img.shields.io/badge/MODULE_02-PREDICTIVE-green?style=for-the-badge&logo=anaconda" width="100%" />
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <a href="#biometric-cv">
-        <img src="https://img.shields.io/badge/MODULE_03-VISION-purple?style=for-the-badge&logo=opencv" width="100%" />
-      </a>
-    </td>
-    <td align="center" width="25%">
-      <a href="#system-architecture">
-        <img src="https://img.shields.io/badge/MODULE_04-ARCHITECT-orange?style=for-the-badge&logo=python" width="100%" />
-      </a>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <h1>VALLURI KEERTHI RAM</h1>
+  <p><b>CS UNDERGRADUATE | 3RD YEAR @ AMRITA | 8.6 CGPA</b></p>
+  <p><i>Multi-Domain Systems & AI Engineer</i></p>
+  <p>Versatile Systems Optimization Developer and AI enthusiast bridging hardware constraints, algorithmic efficiency, and deep learning architectures to solve high-impact complexities.</p>
+</div>
 
 ---
 
-<h2 id="linguistic-intelligence">🧠 [MODULE_01] // LINGUISTIC_INTELLIGENCE</h2>
+### 🏛️ CORE SYSTEMS & OPTIMIZATION // THE LOGIC ENGINE
 
-<details open>
-<summary><b>▶ INITIALIZE_NLP_SUBSYSTEMS...</b></summary>
-<br>
+> **Elevator Optimization: Weight-Aware Algorithm** `[OCT 2024 - NOV 2024]`
+> Designed a smarter elevator management system utilizing **Greedy Search** and **Nearest Neighbor** algorithms to reduce wait time and prevent overload in building simulations.
+> `Python` `PyQt5`
 
-| Project Node | Intelligence Profile | Link |
+> **[Teacher-Course Allocation](https://github.com/Vallurikeerthiram/teacher-course-allocation)** `[OCT 2024 - NOV 2024]`
+> Digitized institutional resource management allowing teachers to prioritize courses without exceeding workload capacities.
+> `MySQL` `Web Dev`
+
+---
+
+### 🧠 NLP & TRANSFORMER ARCHITECTURES // SEMANTIC FRONTIERS
+
+> **Telugu Emotion & Sentiment Detection** `[AUG 2025 - NOV 2025]`
+> Fine-tuned multilingual transformers for Telugu text. Achieved **0.784 F1-score**. Pending publication in **ICKECS-2026**.
+> `XLM-RoBERTa` `Transformers`
+
+> **[Scriptio Continua: Final Year Project](https://github.com/Vallurikeerthiram/ScriptioContinua)** `[JAN 2026 - PRESENT]`
+> Developing an intelligent system for text segmentation without word boundaries in continuous character sequences.
+> `NLP` `Sequence Learning`
+
+---
+
+### 🌊 BIO-PREDICTIVE & ENVIRONMENTAL // PREDICTIVE PULSE
+
+> **Adaptive Hydration Prediction System** `[AUG 2025 - NOV 2025]`
+> Physics-integrated GRU model forecasting hydration needs using **Garmin Venu 3** physiological signals.
+> `LSTM/GRU` `Smart Sensors`
+
+> **Groundwater Level Prediction** `[AUG 2025 - NOV 2025]`
+> ML framework for North-Western India. Achieved **R² scores of 0.97 - 0.98**. **CINE 2026** candidate.
+> `Extra Trees Regressor` `Time Series`
+
+---
+
+### 📈 STRATEGIC PLATFORMS & AGRI-TECH // VALUE TRANSPARENCY
+
+> **[Probability-based Crypto Trading Tool](https://github.com/Vallurikeerthiram/Probability-Based-Crypto-For-Scalping-and-Compounding)** `[JAN 2025 - MAY 2025]`
+> Optimized decision-making for volatile assets using probability-based compounding forecasting.
+
+> **Farm Lease Transparency Platform** `[FEB 2026 - PRESENT]`
+> Structured digital system for landowners and farmers to track yields and financial outcomes.
+
+> **[Eye Tracking & CV Lab Portal](https://github.com/Vallurikeerthiram/eyeTracking)** `[MAY 2024 - AUG 2024]`
+> Centralized showcase for Amrita's vision research initiatives and projects.
+
+---
+
+### 🔒 DREAM PROJECT | ENCRYPTED CONCEPT // THE VIP OMNIPRESENCE
+**AI-Native Concierge OS.** A Zero-UI paradigm for elite "Business Class" PA services designed for native human-intent integration.
+
+---
+
+### 🛠️ THE TECHNICAL ARSENAL // SKILLS & EXPERTISE
+
+| **LANGUAGES** | **TOOLS** | **CONCEPTS** |
 | :--- | :--- | :--- |
-| **Scriptio Continua** | `[RESEARCH]` Character-level word segmentation using BiLSTM-CRF/CNN architectures for continuous text reconstruction. | [<kbd>OPEN</kbd>](https://github.com/Vallurikeerthiram/ScriptioContinua) |
-| **English Morphology** | `[STABLE]` Finite State Transducer (FST) for automated base-lemma extraction and derivation analysis. | [<kbd>OPEN</kbd>](https://github.com/Vallurikeerthiram/english-morphological-transducer) |
-| **Telugu Sentiment** | `[ACTIVE]` Fine-tuning XLM-RoBERTa & MuRIL for high-precision low-resource language sentiment analysis. | `[PRIVATE]` |
-| **NLP Programming** | `[EXPERIMENTAL]` A novel interpreter designed to translate natural English statements into executable code logic. | [<kbd>OPEN</kbd>](https://github.com/Vallurikeerthiram/NLP_Programming_Language) |
+| PYTHON, JAVA, SQL, JS, C | NUMPY, SCIKIT-LEARN, PLOTLY | NEURAL NETWORKS, DEEP LEARNING |
+| | GIT, FIGMA, PYQT5, WAMP | ML, NLP, FORECASTING |
+| | | OPTIMIZATIONS, DATA VISUALIZATION |
 
-</details>
-
----
-
-<h2 id="predictive-engines">📊 [MODULE_02] // PREDICTIVE_ENGINES</h2>
-
-<details>
-<summary><b>▶ SCANNING_MATHEMATICAL_MODELS...</b></summary>
-<br>
-
-> **Groundwater Forecasting System** `[ACCURACY: R² > 0.975]`
-> Specialized high-fidelity hydro-forecasting for semi-arid regions using ensemble learning and Bayesian optimization.
-
-> **Crypto Scalping Engine** `[LOGIC: BAYESIAN_MARKOV]`
-> Algorithmic high-frequency trading tool leveraging probability rating matrices and Markov State transitions.
-> [<kbd>DEPLOYED_NODE</kbd>](https://github.com/Vallurikeerthiram/Probability-Based-Crypto-For-Scalping-and-Compounding)
-
-> **Adaptive Hydration GRU** `[TYPE: PHYSICS_INFORMED]`
-> Neural architecture that synchronizes smartwatch biometric streams with physiological models for dynamic health forecasting.
-
-> **Relative Rating System** `[ALGO: BAYESIAN_RANK]`
-> A robust statistical engine for generating relative ratings and rankings across multi-dimensional data points.
-> [<kbd>STABLE_NODE</kbd>](https://github.com/Vallurikeerthiram/relative-rating-system)
-
-</details>
+**CERTIFICATIONS:**  
+[AWS Academy](https://aws.amazon.com/) | [AWS Cloud Essentials](https://aws.amazon.com/) | [Google Gen AI](https://cloud.google.com/training) | [PM (NASBA)](https://www.nasba.org/) | [PM (PMI)](https://www.pmi.org/)
 
 ---
 
-<h2 id="biometric-cv">👁️ [MODULE_03] // BIOMETRIC_&_COMPUTER_VISION</h2>
+### 📡 GET IN TOUCH
 
-<details>
-<summary><b>▶ ANALYZING_VISION_STREAMS...</b></summary>
-<br>
-
-> **Eye Tracking Research Lab**
-> Development of a comprehensive research interface and eye-tracking data integration hub.
-> [<kbd>ACCESS_LAB</kbd>](https://github.com/Vallurikeerthiram/eyeTracking)
-
-> **AI-Ortho Diagnostics**
-> Leveraging deep vision architectures for automated diagnostics in orthopedic imaging.
-
-> **Fingerprint Secure Access**
-> Hardware-interfaced secure authentication system utilizing high-precision biometric matching.
-
-> **Dubbing Agent**
-> Machine Learning-driven audio/video synchronization for automated content localization.
-> [<kbd>ACCESS_NODE</kbd>](https://github.com/Vallurikeerthiram/ML-based-dubbing-agent)
-
-</details>
-
----
-
-<h2 id="system-architecture">🛠️ [MODULE_04] // SYSTEM_ARCHITECTURE</h2>
-
-<details>
-<summary><b>▶ COMPILING_INFRASTRUCTURE_MODULES...</b></summary>
-<br>
-
-- **VKR Desk Assistant**: An intelligence-first OS automation dashboard for seamless desktop orchestration. [<kbd>VIEW</kbd>](https://github.com/Vallurikeerthiram/VKR-Desk-Assistant)
-- **Weight-Aware Lift Management**: Load-optimized vertical logistics engine for industrial applications. [<kbd>VIEW</kbd>](https://github.com/Vallurikeerthiram/Weight-Aware-Lift-Management)
-- **Course Allocation System**: PHP-based teacher-course algorithmic matching platform. [<kbd>VIEW</kbd>](https://github.com/Vallurikeerthiram/teacher-course-allocation)
-- **ML Lab Frameworks**: A collection of modular research templates for rapid prototyping of supervised models. [<kbd>VIEW</kbd>](https://github.com/Vallurikeerthiram/ML-Lab)
-
-</details>
-
----
-
-<h2 align="center">📡 EXTERNAL_UPLINK</h2>
-
-<p align="center">
-  <a href="https://linkedin.com/in/valluri-keerthi-ram-503576216"><img src="https://img.shields.io/badge/UPLINK-LINKEDIN-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://vallurikeerthiram.github.io/keerthiramvalluri.github.io/"><img src="https://img.shields.io/badge/UPLINK-PORTFOLIO-black?style=for-the-badge&logo=vercel" /></a>
-  <a href="mailto:keerthiramvalluri@gmail.com"><img src="https://img.shields.io/badge/UPLINK-EMAIL-red?style=for-the-badge&logo=gmail" /></a>
-</p>
-
----
-<p align="center">
-  <i>"The boundary between possibility and reality is written in code."</i><br>
-  <b>Valluri Keerthi Ram // sys.exit(0)</b>
-</p>
+[**GITHUB**](https://github.com/Vallurikeerthiram) | [**LINKEDIN**](https://linkedin.com/in/valluri-keerthi-ram-503576216)  
+**VALLURI KEERTHI RAM | 8309247221 | BANGALORE, INDIA**
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Vallurikeerthiram&color=green&style=flat-square&label=SYSTEM_ACCESS_COUNT" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=Vallurikeerthiram&color=blue&style=flat-square&label=SYSTEM_ACCESS_COUNT" alt="Visitor Count" />
 </div>
