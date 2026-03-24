@@ -1,68 +1,62 @@
 <div align="center">
-  <h1><code>sys.init("Valluri_Keerthi_Ram")</code></h1>
-  <p><b>Computational Linguistics | Probabilistic Systems | Deep Learning Architecture</b></p>
-  <p><i>B.Tech Computer Science @ Amrita Vishwa Vidyapeetham (2023–2027)</i></p>
+  <h1><code>BOOT_SEQUENCE("VALLURI_KEERTHI_RAM")</code></h1>
+  <p><b>Computational Intelligence | Linguistic Architecture | Predictive Systems</b></p>
+  <p><i>Researching at the Intersection of Math and Neural Engineering // 2023–2027</i></p>
 </div>
 
 <br>
 
-### ∇ Architectural Focus
+### 📁 ROOT_DIRECTORY_EXPLORATION
 
-My research lies at the intersection of discrete mathematics, linguistic morphology, and continuous neural representations. I build systems that operate under strict probabilistic frameworks or solve complex combinatorial problems.
-
-$$ P(\theta | D) = \frac{P(D | \theta) P(\theta)}{P(D)} $$
-*<div align="center">(Core Philosophy: Every heuristic must eventually yield to rigorous Bayesian validation)</div>*
-
----
-
-### ⊚ Active Research & Private Implementations
-*(Validated via [LinkedIn](https://linkedin.com/in/valluri-keerthi-ram-503576216) & [Portfolio](https://vallurikeerthiram.github.io/keerthiramvalluri.github.io/))*
-
-| System Architecture | Methodology & Stack | Validated Outcome |
-| :--- | :--- | :--- |
-| **Groundwater Forecasting** | `Ensemble ML` + `Bayesian Optimization` | Achieved **R² > 0.975** in semi-arid zones. |
-| **Scriptio Continua** | `BiLSTM-CRF` & `1D-CNN` Sequence Tagging | Automated continuous-string word segmentation. |
-| **Adaptive Hydration** | `Physics-Informed GRU` + `Biometric Sync` | Real-time hydration prediction via smartwatches. |
-| **Telugu NLP** | `XLM-RoBERTa` / `MuRIL` Fine-tuning | Low-resource morphologically rich sentiment analysis. |
-
----
-
-### ◈ Open Source Engineering
-
-> **`[1] English Morphological Transducer`**  &nbsp;&nbsp; [<kbd>⮑ Repository</kbd>](https://github.com/Vallurikeerthiram/english-morphological-transducer)
-> Engineered a Finite State Transducer (FST) and Trie-based validation system for complex morphological derivation and base-lemma extraction.
-
-> **`[2] High-Frequency Crypto Engine`** &nbsp;&nbsp; [<kbd>⮑ Repository</kbd>](https://github.com/Vallurikeerthiram/Probability-Based-Crypto-For-Scalping-and-Compounding)
-> Designed an algorithmic execution engine utilizing probability-based rating matrices and Markov Chain state transitions for scalping optimization.
-
-> **`[3] VKR-Desk-Assistant`** &nbsp;&nbsp; [<kbd>⮑ Repository</kbd>](https://github.com/Vallurikeerthiram/VKR-Desk-Assistant)
-> Cross-platform system intelligence tool utilizing Python automation, local OS hooks, and an integrated WebUI.
-
----
-
-### Δ Technical Topology
-
-```mermaid
-graph TD;
-    A[Core Logic] --> B(Probabilistic Math)
-    A --> C(Neural Architectures)
-    B --> D[Bayesian Inference]
-    B --> E[Markov Chains]
-    C --> F[Transformers / Sequence Models]
-    C --> G[CNNs / Vision]
-    F --> H[Linguistic Informatics]
-    D --> I[Predictive Hydroinformatics]
-    style A fill:#0d1117,stroke:#3fb950,stroke-width:2px,color:#c9d1d9
-    style B fill:#161b22,stroke:#8b949e,color:#c9d1d9
-    style C fill:#161b22,stroke:#8b949e,color:#c9d1d9
+```text
+/root
+├── 🧠 LINGUISTIC_INTELLIGENCE
+│   ├── [Scriptio_Continua] // Automated Word Segmentation Framework (BiLSTM/CNN/CRF)
+│   ├── [English_Morphology] // Finite State Transducer (FST) / Base Lemma Extraction
+│   ├── [Telugu_NLP] // MuRIL/RoBERTa Fine-tuning for Low-Resource Sentiment
+│   └── [NLP_Prog_Lang] // Interpreting Natural English into Executable Code
+│
+├── 📊 PREDICTIVE_ENGINEERING
+│   ├── [Groundwater_ML] // High-Fidelity Ensembles for Hydro-Forecasting (R² > 0.975)
+│   ├── [Crypto_Scalper] // Probability-Based Rating / Markov Chain Scalping
+│   ├── [Hydration_GRU] // Physics-Integrated GRU / Smartwatch-Biometric Sync
+│   └── [Rating_System] // Bayesian-Integrated Relative Ranking Algorithms
+│
+├── 👁️ BIOMETRICS_&_COMPUTER_VISION
+│   ├── [Eye_Tracking] // Computer Vision Lab Website & Research Integration
+│   ├── [Ortho_Diagnostics] // AI-based Image Analysis for Orthopedic Diagnostics
+│   ├── [Fingerprint_Auth] // Hardware-Integrated Secure Access Tooling
+│   └── [Dubbing_Agent] // ML-based Audio/Video Synchronization Agent
+│
+└── 🛠️ SYSTEMS_ARCHITECTURE
+    ├── [VKR_Desk_Assistant] // Intelligence-First OS Automation Dashboard
+    ├── [Lift_Management] // Load-Optimized Vertical Logistics Engine
+    ├── [Course_Allocation] // Algorithmic Teacher-Course Assignment System
+    └── [ML_Lab_Frameworks] // Modular Research Templates for Supervised Learning
 ```
 
 ---
 
-### ∐ Telemetry
+### 🖥️ CORE_CAPABILITIES
 
-<div align="center">
-  <a href="https://linkedin.com/in/valluri-keerthi-ram-503576216"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
-  <a href="https://vallurikeerthiram.github.io/keerthiramvalluri.github.io/"><img src="https://img.shields.io/badge/Portfolio-Explore-black?style=for-the-badge&logo=vercel" alt="Portfolio"></a>
-  <a href="mailto:keerthiramvalluri@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"></a>
+| Area | Expertise |
+| :--- | :--- |
+| **Neural Ops** | PyTorch, Transformers, CNNs, Sequence Tagging, GRU Architectures |
+| **Linguistic Math** | FST, Trie Verification, BIES Tagging, MuRIL Optimizations |
+| **Probabilistic ML** | Bayesian Inference, Markov State Transitions, Bayesian Optimization |
+| **Systems** | Python (FastAPI), JavaScript (ES6+), AWS (Certified), Docker, GitHub Actions |
+
+---
+
+### 📡 CONNECTED_NODES
+
+> **`[1] PORTFOLIO`** &nbsp;&nbsp; [<kbd>⮑ terminalPortfolio.github.io</kbd>](https://vallurikeerthiram.github.io/keerthiramvalluri.github.io/)
+> **`[2] PROFESSIONAL`** [<kbd>⮑ in/valluri-keerthi-ram</kbd>](https://linkedin.com/in/valluri-keerthi-ram-503576216)
+> **`[3] COMMUNICATION`** [<kbd>⮑ keerthiramvalluri@gmail.com</kbd>](mailto:keerthiramvalluri@gmail.com)
+
+---
+
+<div align="right">
+  <i>"Exploring the unexplored by building the foundations."</i><br>
+  <b>Valluri Keerthi Ram</b>
 </div>
