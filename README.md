@@ -1,86 +1,68 @@
-# 🗂️ [VALLURI KEERTHI RAM] // ARCHITECTING_INTELLIGENT_SYSTEMS
+<div align="center">
+  <h1><code>sys.init("Valluri_Keerthi_Ram")</code></h1>
+  <p><b>Computational Linguistics | Probabilistic Systems | Deep Learning Architecture</b></p>
+  <p><i>B.Tech Computer Science @ Amrita Vishwa Vidyapeetham (2023–2027)</i></p>
+</div>
 
-> **"Computational Precision meets Linguistic Nuance."**
+<br>
 
-I am an AI researcher and developer at **Amrita Vishwa Vidyapeetham (2023–2027)**, specializing in the synthesis of **Deep Learning**, **Mathematical Statistics**, and **Linguistic Theory**. My objective is to push the boundaries of what is possible in predictive modeling and natural language understanding.
+### ∇ Architectural Focus
+
+My research lies at the intersection of discrete mathematics, linguistic morphology, and continuous neural representations. I build systems that operate under strict probabilistic frameworks or solve complex combinatorial problems.
+
+$$ P(\theta | D) = \frac{P(D | \theta) P(\theta)}{P(D)} $$
+*<div align="center">(Core Philosophy: Every heuristic must eventually yield to rigorous Bayesian validation)</div>*
 
 ---
 
-### 🧩 THE_COMPUTATIONAL_ENGINE
+### ⊚ Active Research & Private Implementations
+*(Validated via [LinkedIn](https://linkedin.com/in/valluri-keerthi-ram-503576216) & [Portfolio](https://vallurikeerthiram.github.io/keerthiramvalluri.github.io/))*
 
-```python
-class ValluriKeerthiRam:
-    def __init__(self):
-        self.core_stack = ["PyTorch", "TensorFlow", "Transformers", "OpenCV"]
-        self.research_focus = ["Scriptio_Continua", "Morphological_FST", "Bayesian_Forecasting"]
-        self.capabilities = {
-            "NLP": ["XLM-RoBERTa", "MuRIL", "Sentiment_Analysis", "BIES_Tagging"],
-            "Math": ["Bayesian_Inference", "Markov_Chains", "Statistical_Modeling"],
-            "Cloud": ["AWS_Certified", "FastAPI", "Docker", "GitHub_Actions"]
-        }
+| System Architecture | Methodology & Stack | Validated Outcome |
+| :--- | :--- | :--- |
+| **Groundwater Forecasting** | `Ensemble ML` + `Bayesian Optimization` | Achieved **R² > 0.975** in semi-arid zones. |
+| **Scriptio Continua** | `BiLSTM-CRF` & `1D-CNN` Sequence Tagging | Automated continuous-string word segmentation. |
+| **Adaptive Hydration** | `Physics-Informed GRU` + `Biometric Sync` | Real-time hydration prediction via smartwatches. |
+| **Telugu NLP** | `XLM-RoBERTa` / `MuRIL` Fine-tuning | Low-resource morphologically rich sentiment analysis. |
+
+---
+
+### ◈ Open Source Engineering
+
+> **`[1] English Morphological Transducer`**  &nbsp;&nbsp; [<kbd>⮑ Repository</kbd>](https://github.com/Vallurikeerthiram/english-morphological-transducer)
+> Engineered a Finite State Transducer (FST) and Trie-based validation system for complex morphological derivation and base-lemma extraction.
+
+> **`[2] High-Frequency Crypto Engine`** &nbsp;&nbsp; [<kbd>⮑ Repository</kbd>](https://github.com/Vallurikeerthiram/Probability-Based-Crypto-For-Scalping-and-Compounding)
+> Designed an algorithmic execution engine utilizing probability-based rating matrices and Markov Chain state transitions for scalping optimization.
+
+> **`[3] VKR-Desk-Assistant`** &nbsp;&nbsp; [<kbd>⮑ Repository</kbd>](https://github.com/Vallurikeerthiram/VKR-Desk-Assistant)
+> Cross-platform system intelligence tool utilizing Python automation, local OS hooks, and an integrated WebUI.
+
+---
+
+### Δ Technical Topology
+
+```mermaid
+graph TD;
+    A[Core Logic] --> B(Probabilistic Math)
+    A --> C(Neural Architectures)
+    B --> D[Bayesian Inference]
+    B --> E[Markov Chains]
+    C --> F[Transformers / Sequence Models]
+    C --> G[CNNs / Vision]
+    F --> H[Linguistic Informatics]
+    D --> I[Predictive Hydroinformatics]
+    style A fill:#0d1117,stroke:#3fb950,stroke-width:2px,color:#c9d1d9
+    style B fill:#161b22,stroke:#8b949e,color:#c9d1d9
+    style C fill:#161b22,stroke:#8b949e,color:#c9d1d9
 ```
 
 ---
 
-### 🧪 RESEARCH_FRONTIERS (PRIVATE_SECTOR)
+### ∐ Telemetry
 
-These projects represent high-fidelity research and are validated via **LinkedIn** and **Professional Portfolio**. They focus on solving complex, real-world problems through innovative mathematical applications.
-
-<details>
-<summary><b>🛰️ Predictive Hydroinformatics: Groundwater Forecasting</b></summary>
-<blockquote>
-Implemented a high-fidelity groundwater prediction system for semi-arid regions. Leveraging specialized ML ensembles, the system achieved a validated <b>R² > 0.975</b>, providing critical insights for regional water management.
-</blockquote>
-</details>
-
-<details>
-<summary><b>🧬 Linguistic Informatics: Scriptio Continua Framework</b></summary>
-<blockquote>
-Developed a unified deep learning framework for automated word segmentation in continuous text strings. Utilizes a hybrid <b>BiLSTM-CRF</b> and <b>CNN</b> architecture to reconstruct boundaries in Scriptio Continua languages with state-of-the-art precision.
-</blockquote>
-</details>
-
-<details>
-<summary><b>⌚ Adaptive Hydration: Smartwatch-Integrated GRU</b></summary>
-<blockquote>
-A physics-integrated Gated Recurrent Unit (GRU) system designed for real-time hydration prediction. It synchronizes smartwatch biometric data with physiological models to provide dynamic health monitoring.
-</blockquote>
-</details>
-
-<details>
-<summary><b>🎭 Emotion Sentiment: Low-Resource Telugu Transformers</b></summary>
-<blockquote>
-Fine-tuned multilingual transformer models (MuRIL/RoBERTa) specifically optimized for the nuances of the Telugu language, bridging the gap in low-resource sentiment analysis.
-</blockquote>
-</details>
-
----
-
-### 📂 OPEN_SOURCE_INTELLIGENCE (PUBLIC_ACCESS)
-
-| Project | Domain | Core Tech |
-| :--- | :--- | :--- |
-| **[English Morphological Transducer](https://github.com/Vallurikeerthiram/english-morphological-transducer)** | Computational Linguistics | FST, Trie, Python |
-| **[Probability-Based Crypto Tool](https://github.com/Vallurikeerthiram/Probability-Based-Crypto-For-Scalping-and-Compounding)** | Algorithmic Trading | Bayesian Math, Markov Chains |
-| **[VKR-Desk-Assistant](https://github.com/Vallurikeerthiram/VKR-Desk-Assistant)** | Intelligent Automation | Python, WebUI, OS Integration |
-| **[Relative Rating System](https://github.com/Vallurikeerthiram/relative-rating-system)** | Statistical Modeling | Ranking Algorithms |
-
----
-
-### 📜 VALIDATION_&_CREDENTIALS
-
-- **AWS GRADUATE**: Cloud Foundations & Technical Essentials (2025/2026)
-- **GOOGLE AI**: Introduction to Generative AI (2024)
-- **PMI**: Project Management Foundations (2024)
-- **HACKERRANK**: Problem Solving (Advanced) // Python Specialist (2023)
-
----
-
-### 📡 COMMUNICATION_CHANNELS
-
-- **Professional Profile**: [LinkedIn](https://www.linkedin.com/in/valluri-keerthi-ram-503576216)
-- **Digital Portfolio**: [Official Site](https://vallurikeerthiram.github.io/keerthiramvalluri.github.io/)
-- **Direct Mail**: [keerthiramvalluri@gmail.com](mailto:keerthiramvalluri@gmail.com)
-
----
-*"The code is only as powerful as the logic that precedes it."*
+<div align="center">
+  <a href="https://linkedin.com/in/valluri-keerthi-ram-503576216"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+  <a href="https://vallurikeerthiram.github.io/keerthiramvalluri.github.io/"><img src="https://img.shields.io/badge/Portfolio-Explore-black?style=for-the-badge&logo=vercel" alt="Portfolio"></a>
+  <a href="mailto:keerthiramvalluri@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email"></a>
+</div>
