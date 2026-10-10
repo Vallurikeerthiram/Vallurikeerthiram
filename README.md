@@ -4,7 +4,7 @@
   <p><b>CGPA: 8.74</b> | <i>Calibrating Physics — Engineering the Physical World Through Abstract Computation</i></p>
   
   <p>
-    <a href="https://vallurikeerthiram.github.io/keerthiramvalluri.github.io/"><img src="https://img.shields.io/badge/Portfolio-Live_Website-007ACC?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+    <a href="https://vallurikeerthiram.github.io/"><img src="https://img.shields.io/badge/Portfolio-Live_Website-007ACC?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
     <a href="https://github.com/Vallurikeerthiram"><img src="https://img.shields.io/badge/GitHub-Vallurikeerthiram-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
     <a href="https://www.linkedin.com/in/valluri-keerthi-ram-503576216"><img src="https://img.shields.io/badge/LinkedIn-Valluri_Keerthi_Ram-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   </p>
@@ -97,7 +97,7 @@
 
 ### 📡 CONNECT & CONTACT
 
-- **Portfolio**: [vallurikeerthiram.github.io](https://vallurikeerthiram.github.io/keerthiramvalluri.github.io/)
+- **Portfolio**: [vallurikeerthiram.github.io](https://vallurikeerthiram.github.io/)
 - **LinkedIn**: [linkedin.com/in/valluri-keerthi-ram-503576216](https://www.linkedin.com/in/valluri-keerthi-ram-503576216)
 - **GitHub**: [github.com/Vallurikeerthiram](https://github.com/Vallurikeerthiram)
 - **Location**: Amrita School of Engineering, Bengaluru, India
